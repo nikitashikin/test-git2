@@ -1,3 +1,3 @@
 # test-g
 
-first project
+My first project
